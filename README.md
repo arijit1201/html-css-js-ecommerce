@@ -1,2 +1,2 @@
 # html-css-js-ecommerce
-e-commerce website using html-css-js
+e-commerce website using html-css-js for practice
